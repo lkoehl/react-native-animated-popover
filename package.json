@@ -1,0 +1,28 @@
+{
+  "name": "react-native-animated-popover",
+  "version": "1.0.0",
+  "description": "A simple container to create an animated popover in React Native",
+  "main": "index.js",
+  "repository": "https://github.com/lkoehl/react-native-animated-popover",
+  "bugs": {
+    "url": "https://github.com/lkoehl/react-native-animated-popover/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-svg": "^12.1.0"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "popover",
+    "animated popover"
+  ],
+  "author": "Lukas Köhl",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
